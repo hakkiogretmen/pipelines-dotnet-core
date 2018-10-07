@@ -1,4 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
+[![Build Status](https://dev.azure.com/hakkiogretmen0635/myFirstAzureDevOpsProject/_apis/build/status/hakkiogretmen.pipelines-dotnet-core)](https://dev.azure.com/hakkiogretmen0635/myFirstAzureDevOpsProject/_build/latest?definitionId=1)
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
